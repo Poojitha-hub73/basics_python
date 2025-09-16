@@ -28,7 +28,10 @@ while(True):
     else:
         print("Thank YOU!!!")
         break
-
-
 # for k,v in food_items.items():
 #     print("MRP : ",k," Items : ",v)
+d={}
+for i in range(65,91):
+    d[chr(i)]=i
+print(d)
+print("newupdates givenby madhu")

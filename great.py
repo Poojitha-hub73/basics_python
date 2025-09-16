@@ -11,3 +11,9 @@ elif(60<=marks<=69):
 else:
     grade = "Fail"
     print(grade)
+a=int(input())
+b=int(input())
+if a>b:
+    print("a is greater")
+else:
+    print("b is greater")
